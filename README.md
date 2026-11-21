@@ -1,4 +1,3 @@
-# cursoDIOCyberSecurity
 Repositório para o curso da DIO em Cyber Segurança
 
 Este repositório contém informações e arquivos construídos ao longo do curso da DIO
